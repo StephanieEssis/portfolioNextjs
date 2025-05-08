@@ -16,7 +16,7 @@ export default function Home() {
         />
       </div>
       <p className="text-xl mb-6">
-        Je suis un développeur passionnée par la création d'applications webs.
+        Je suis un développeur passionnée par la création dapplications webs.
       </p>
       <Link 
         href="/projects" 

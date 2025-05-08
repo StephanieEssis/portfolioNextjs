@@ -6,8 +6,8 @@ export default function About() {
           <div>
             <h2 className="text-xl font-semibold mb-4">Mon parcours</h2>
             <p className="mb-4 text-sm">
-            Bonjour ! Je suis un développeur Full-Stack Junior passionnée par la création d'applications web interactives et dynamiques.
-          Avec une solide formation en développement front-end, je m'efforce de créer des expériences utilisateur intuitives et performantes.
+            Bonjour ! Je suis un développeur Full-Stack Junior passionnée par la création dapplications web interactives et dynamiques.
+          Avec une solide formation en développement front-end, je mefforce de créer des expériences utilisateur intuitives et performantes.
       </p>
             <p className="text-sm">
               Passionnée par les technologies modernes comme <span className="font-bold text-purple-800">React, Next.js, Node.js</span>.
